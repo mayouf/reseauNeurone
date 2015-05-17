@@ -1,0 +1,36 @@
+{  
+   1:{  
+      1:{  
+         'signal':None,
+         'erreur':None,
+         'potentiel':None
+      },
+      2:{  
+         'signal':None,
+         'erreur':None,
+         'potentiel':None
+      },
+      'weight':array([ [0.1 , 0.15, 0.05],
+                       [0.12, 0.18, 0.08] ])
+   },
+   2:{  
+      1:{  
+         'signal':None,
+         'erreur':None,
+         'potentiel':None
+      },
+      2:{  
+         'signal':None,
+         'erreur':None,
+         'potentiel':None
+      },
+      3:{  
+         'signal':None,
+         'erreur':None,
+         'potentiel':None
+      },
+      'weight':array([ [0.1  ,0.14],
+                       [0.125,0.21],
+                       [0.13 ,0.07] ])
+   }
+}
